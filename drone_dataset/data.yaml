@@ -1,0 +1,6 @@
+names:
+- drone
+nc: 1
+path: /drone_dataset/
+train: /drone_dataset/train
+val: /drone_dataset/valid
