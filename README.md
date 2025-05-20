@@ -79,3 +79,6 @@ This project is licensed under the MIT License.
 
 - Object detection methods inspired by YOLO
 - Open drone image datasets
+
+
+***Altan Ulaş Zöhre***
